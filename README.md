@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Can.
+👋 Hi, I’m Can.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
